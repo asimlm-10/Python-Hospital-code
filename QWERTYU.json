@@ -1,0 +1,43 @@
+[
+    {
+        "Name": "Asim Babar",
+        "Disease": "Fever",
+        "Status": "Regular",
+        "Doctors": [
+            {
+                "Name": "Dr Shoib",
+                "Timing": "11:00-1:00 PM",
+                "Days": "Mon-Teus"
+            },
+            {
+                "Name": "Dr Ahsan",
+                "Timing": "3:00-6:00 PM",
+                "Days": "Thurs-Sat"
+            }
+        ]
+    },
+    {
+        "Name": "Zahid Hanif",
+        "Disease": "Malaria",
+        "Status": "Emergency",
+        "Doctors": [
+            {
+                "Name": "Dr Muneeb",
+                "Timing": "2:00-5:00 PM",
+                "Days": "Fri-Sun"
+            }
+        ]
+    },
+    {
+        "Name": "Asad",
+        "Disease": "Cancer",
+        "Status": "Emergency",
+        "Doctors": [
+            {
+                "Name": "Dr Zakir",
+                "Timing": "11:00 - 2:00 PM",
+                "Days": "Thurs - Sun"
+            }
+        ]
+    }
+]
